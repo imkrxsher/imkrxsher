@@ -1,4 +1,4 @@
-# 💫 Hello World, This is:
+# 💫 Hello Zusammen, Das ist:
 🎨 **Hendra Kurniawan** — also known as **KRXSH/iMKRXSHER**<br>
 🎓 Undergraduate Student — Tadris Bahasa Inggris (English Education)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Institut Agama Islam Hasanuddin (IAIH) Pare, Kediri, East Java (2022–Present)<br>
@@ -39,7 +39,7 @@
 
 ---
 
-### 🤖 AI Tools I Use So Far
+### 🤖 AI Tools
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-1E3A8A?style=for-the-badge)
@@ -56,47 +56,44 @@
 ---
 
 ## 🌐 Socials & Contact
+<a href="https://instagram.com/imkrxsher" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://github.com/imkrxsher" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://imkrxsher.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:hendrakurniawan.id@proton.me">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+---
+
+## 📊 Profile Highlights
 <p align="center">
-  <a href="https://instagram.com/imkrxsher" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/imkrxsher" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://imkrxsher.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:hendrakurniawan.id@proton.me">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://img.shields.io/badge/GitHub%20Stats-Active%20Profile-181717?logo=github&style=for-the-badge" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/GitHub%20Streak-Consistent%20Learner-FF8C00?logo=github&style=for-the-badge" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Top%20Languages-HTML%20%7C%20CSS%20%7C%20JavaScript-1572B6?logo=javascript&style=for-the-badge" alt="Top Languages" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imkrxsher&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=imkrxsher&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkrxsher&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imkrxsher&theme=onestar&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/GitHub%20Achievements-Profile%20Highlights-FFD700?logo=trophy&style=for-the-badge" alt="GitHub Achievements" />
 </p>
 
 ---
 
 ### ✨ Motivation
-> Curiosity is the best learning motivation.
->
-> There is no past, there is no future, only now.
+<p align="center">
+  <font face="Georgia, serif" size="4"><i><b>Curiosity is the best learning motivation.</b></i></font><br>
+  <font face="Georgia, serif" size="4"><i>There is no past, there is no future, only now.</i></font>
+</p>
 
 ---
 
