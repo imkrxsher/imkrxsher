@@ -8,7 +8,25 @@
 🌍 Based in Kediri, East Java, Indonesia<br>
 
 ---
+## 🚀 Featured Projects
 
+### [iMKRXSHER Portfolio](https://github.com/imkrxsher/portofolliow)
+Personal portfolio website for typography, custom lettering, logo systems, and visual identity.
+
+**Built with:** HTML5, CSS3, JavaScript, GitHub Pages  
+[Live Website](https://imkrxsher.github.io/portofolliow/)
+
+### [Monthly Plan](https://github.com/imkrxsher/monthlyplan)
+A web-based monthly planning application for organizing schedules and daily activities.
+
+**Built with:** HTML5, JavaScript, Supabase
+
+### [Calculatorr](https://github.com/imkrxsher/calculatorr)
+A simple online calculator with a clean and practical interface.
+
+**Built with:** HTML5, CSS3, JavaScript
+
+---
 ## 🛠️ Design & Tech Stack
 
 ### 🎨 Design Tools
