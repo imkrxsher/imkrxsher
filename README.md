@@ -8,6 +8,7 @@
 🌍 Based in Kediri, East Java, Indonesia<br>
 
 ---
+
 ## 🚀 Featured Projects
 
 ### [iMKRXSHER Portfolio](https://github.com/imkrxsher/portofolliow)
@@ -27,6 +28,7 @@ A simple online calculator with a clean and practical interface.
 **Built with:** HTML5, CSS3, JavaScript
 
 ---
+
 ## 🛠️ Design & Tech Stack
 
 ### 🎨 Design Tools
