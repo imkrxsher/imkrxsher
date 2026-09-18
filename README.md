@@ -120,6 +120,18 @@ A simple online calculator with a clean and practical interface.
 
 ---
 
+## 👥 KRXSHING TEAM
+
+- **Hendra Kurniawan** — Chief Manager
+
+- **Levishrwd** — Frontend Developer
+
+- **imkrxsher** — Graphic Designer
+
+- **180°man** — Graphic Designer
+
+---
+
 ## 🏆 GitHub Achievements
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub%20Achievements-Profile%20Highlights-FFD700?logo=trophy&style=for-the-badge" alt="GitHub Achievements" />
@@ -129,12 +141,12 @@ A simple online calculator with a clean and practical interface.
 
 ### ✨ Motivation
 <p align="center">
-  <font face="Georgia, serif" size="4"><i><b>Curiosity is the best learning motivation.</b></i></font><br>
-  <font face="Georgia, serif" size="4"><i>There is no past, there is no future, only now.</i></font>
+  <font face="Georgia, serif" size="4"><i><b>"Curiosity is the best learning motivation."</b></i></font><br>
+  <font face="Georgia, serif" size="4"><i>"There is no past, there is no future, only now."</i></font>
 </p>
 
 ---
 
 [![](https://komarev.com/ghpvc/?username=imkrxsher&color=blueviolet&style=for-the-badge)](https://github.com/imkrxsher)
 
-<!-- Proudly crafted by iMKRXSHER -->
+<!-- iMaginary crafted by iMKRXSHER -->
