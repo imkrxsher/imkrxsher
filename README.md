@@ -128,18 +128,12 @@ A simple online calculator with a clean and practical interface.
 
 ## 👥 KRXSHING TEAM
 
-![Hendra Kurniawan — Chief Manager](https://img.shields.io/badge/Hendra%20Kurniawan-Chief%20Manager-0A6E42?style=for-the-badge)
-
-<p align="center">
+<p align="left">
+  <img src="https://img.shields.io/badge/Hendra%20Kurniawan-Chief%20Manager-0A6E42?style=for-the-badge" alt="Hendra Kurniawan — Chief Manager" /><br>
   <img src="https://img.shields.io/badge/levishrwd-Frontend%20Developer-0A6E42?style=for-the-badge" alt="levishrwd — Frontend Developer" /><br>
   <img src="https://img.shields.io/badge/imkrxsher-Graphic%20Designer-0A6E42?style=for-the-badge" alt="imkrxsher — Graphic Designer" /><br>
   <img src="https://img.shields.io/badge/180%C2%B0man-Graphic%20Designer-0A6E42?style=for-the-badge" alt="180°man — Graphic Designer" />
 </p>
-![levishrwd — Frontend Developer](https://img.shields.io/badge/levishrwd-Frontend%20Developer-0A6E42?style=for-the-badge)
-
-![imkrxsher — Graphic Designer](https://img.shields.io/badge/imkrxsher-Graphic%20Designer-0A6E42?style=for-the-badge)
-
-![180°man — Graphic Designer](https://img.shields.io/badge/180%C2%B0man-Graphic%20Designer-0A6E42?style=for-the-badge)
 
 ---
 
