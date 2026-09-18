@@ -122,9 +122,10 @@ A simple online calculator with a clean and practical interface.
 
 ## 👥 KRXSHING TEAM
 
+![Hendra Kurniawan](https://img.shields.io/badge/Hendra%20Kurniawan-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 - **Hendra Kurniawan** — Chief Manager
 
-- **Levishrwd** — Frontend Developer
+- **levishrwd** — Frontend Developer
 
 - **imkrxsher** — Graphic Designer
 
