@@ -122,14 +122,13 @@ A simple online calculator with a clean and practical interface.
 
 ## 👥 KRXSHING TEAM
 
-![Hendra Kurniawan](https://img.shields.io/badge/Hendra%20Kurniawan-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-- **Hendra Kurniawan** — Chief Manager
+![Hendra Kurniawan - Chief Manager](https://img.shields.io/badge/Indonesian-Native-0A6E42?style=for-the-badge)
 
-- **levishrwd** — Frontend Developer
+![levishrwd - Frontend Developer](https://img.shields.io/badge/Indonesian-Native-0A6E42?style=for-the-badge)
 
-- **imkrxsher** — Graphic Designer
+![KRXSHING TEAM member imkrxsher, a Graphic Designer; the badge reads Indonesian — Native](https://img.shields.io/badge/Indonesian-Native-0A6E42?style=for-the-badge)
 
-- **180°man** — Graphic Designer
+![KRXSHING TEAM member 180°man, a Graphic Designer; the badge reads Indonesian — Native](https://img.shields.io/badge/Indonesian-Native-0A6E42?style=for-the-badge)
 
 ---
 
