@@ -117,9 +117,6 @@ A simple online calculator with a clean and practical interface.
 <p align="center">
   <img src="https://img.shields.io/badge/Top%20Languages-HTML%20%7C%20CSS%20%7C%20JavaScript-1572B6?logo=javascript&style=for-the-badge" alt="Top Languages" />
 
-
-
-
 ---
 
 ## 🏆 GitHub Achievements
@@ -133,6 +130,11 @@ A simple online calculator with a clean and practical interface.
 
 ![Hendra Kurniawan — Chief Manager](https://img.shields.io/badge/Hendra%20Kurniawan-Chief%20Manager-0A6E42?style=for-the-badge)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/levishrwd-Frontend%20Developer-0A6E42?style=for-the-badge" alt="levishrwd — Frontend Developer" /><br>
+  <img src="https://img.shields.io/badge/imkrxsher-Graphic%20Designer-0A6E42?style=for-the-badge" alt="imkrxsher — Graphic Designer" /><br>
+  <img src="https://img.shields.io/badge/180%C2%B0man-Graphic%20Designer-0A6E42?style=for-the-badge" alt="180°man — Graphic Designer" />
+</p>
 ![levishrwd — Frontend Developer](https://img.shields.io/badge/levishrwd-Frontend%20Developer-0A6E42?style=for-the-badge)
 
 ![imkrxsher — Graphic Designer](https://img.shields.io/badge/imkrxsher-Graphic%20Designer-0A6E42?style=for-the-badge)
