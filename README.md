@@ -124,9 +124,9 @@ A simple online calculator with a clean and practical interface.
 
 ![Hendra Kurniawan - Chief Manager](https://img.shields.io/badge/Hendra Kurniawan - Chief Manager-0A6E42?style=for-the-badge)
 
-![levishrwd - Frontend Developer](https://img.shields.io/badge/levishrwd - Frontend Developer-0A6E42?style=for-the-badge)
+![levishrwd - Frontend Developer; the badge reads levishrwd - Frontend Developer-0A6E42?style=for-the-badge)
 
-![KRXSHING TEAM member imkrxsher, a Graphic Designer; the badge reads imkrxsher — Graphic Designer](https://img.shields.io/badge/Indonesian-Native-0A6E42?style=for-the-badge)
+![KRXSHING TEAM member imkrxsher, a Graphic Designer; the badge reads imkrxsher — Graphic Designer](https://img.shields.io/badge/Indonesian-Graphic-0A6E42?style=for-the-badge)
 
 ![KRXSHING TEAM member 180°man, a Graphic Designer; the badge reads 180°man — Graphic Designer](https://img.shields.io/badge/Indonesian-Native-0A6E42?style=for-the-badge)
 
