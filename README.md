@@ -1,5 +1,5 @@
 # 💫 Hello Zusammen, Das ist:
-🎨 **Hendra Kurniawan** — also known as **KRXSH/iMKRXSHER**<br>
+🎨 **Hendra Kurniawan** <br>
 🎓 Undergraduate Student — Tadris Bahasa Inggris (English Education)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Institut Agama Islam Hasanuddin (IAIH) Pare, Kediri, East Java (2022–Present)<br>
 💼 Freelance Graphic Designer under the brand **iMKRXSHER**<br>
